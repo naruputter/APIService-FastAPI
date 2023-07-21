@@ -1,6 +1,16 @@
 # API Service With FastAPI
 ## Requirement
 
-- python
-- pip install fastapi
-- pip install uvicorn
+- Python Version > 3.7
+
+## Library
+
+```bash
+# fastapi
+pip install fastapi
+
+# uvicorn
+pip install uvicorn
+
+```
+
