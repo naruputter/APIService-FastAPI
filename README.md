@@ -19,4 +19,11 @@ Install uvicorn library for run fastAPI service
 pip install uvicorn
 ```
 
+## Start
+
+run python file name "run_service.py"
+```bash
+python run_service.py
+```
+
 
