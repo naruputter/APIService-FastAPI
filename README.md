@@ -5,14 +5,14 @@
 
 ## Library
 
-- Install FastAPI library for create API service 
+Install FastAPI library for create API service 
 
 ```bash
 # fastapi
 pip install fastapi
 ```
 
-- Install uvicorn library for run fastAPI service 
+Install uvicorn library for run fastAPI service 
 
 ```bash
 # uvicorn
