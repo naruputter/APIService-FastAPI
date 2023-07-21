@@ -1,3 +1,6 @@
 # API Service With FastAPI
-## Test
-Test
+## Requirement
+
+python
+pip install fastapi
+pip install uvicorn
